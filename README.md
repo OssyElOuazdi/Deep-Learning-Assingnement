@@ -27,7 +27,7 @@ This repository contains the implementation of two deep learning tasks :
 ## Datasets
 
 The datasets required for this project can be downloaded from the following Google Drive folder:  
-[Download Datasets]([https://drive.google.com/your-link-here](https://drive.google.com/drive/folders/19Lo1TDWRM0UEoAkCQxL03G5g_nwgofZp?usp=drive_link))
+[Download Datasets](https://drive.google.com/drive/folders/19Lo1TDWRM0UEoAkCQxL03G5g_nwgofZp?usp=drive_link)
 
 - **Time Series Prediction Dataset**: `TemperatureRainFall.csv`
 - **Image Classification Dataset**: `DeepLearningTask-1.7z`
